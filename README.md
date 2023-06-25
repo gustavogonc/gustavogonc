@@ -4,12 +4,12 @@
   display: flex;
   max-height: 120px;
 
-  .img {
+  .imagem1, imagem2 {
     width: 100%;
     height: 100%;
   }
 </style>
-<img src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc" alt="Most used languages" />
+<img class="imagem1" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> <img class="imagem2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc" alt="Most used languages" />
 <!--
 **gustavogonc/gustavogonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
