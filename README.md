@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> <img src="[https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&layout=compact)" alt="Most used languages" />
 <!--
 **gustavogonc/gustavogonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
