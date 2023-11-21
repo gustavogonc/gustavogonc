@@ -4,19 +4,47 @@
 
 <br>
 💻 - Software Developer
-<br>
+<br />
 🏫 - Estudante de Análise e Desenvolvimento de Sistemas na UNIP && Engenharia de Software na AMPLI - Pitágoras
-<br>
+<br />
+<br />
 
 <a href="https://www.linkedin.com/in/gustavo-a-goncalves/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br />
 <hr />
 
 <div dir="auto">
-  <img height="180em" style="max-width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> 
-  <img height="180em" style="max-width: 100%;" align="center" class="imagem2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" style="max-width: 100%;" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages" style="max-width: 100%;" />
+</div>
+
+<br />
+<br />
+
+<h5>Stacks</h5>
+
+<div dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" style="max-width: 100%;">
+  </a>
 </div>
 
 <!--
