@@ -1,7 +1,3 @@
-<style>
-  a { text-decoration: none}
-</style>
-
 ### Oi, eu sou o Gustavo 😅
 
 
@@ -22,8 +18,8 @@
 <hr />
 
 <div dir="auto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" style="max-width: 100%;" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages" style="max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages"/>
 </div>
 
 <br />
