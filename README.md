@@ -1,6 +1,4 @@
 ### Oi, eu sou o Gustavo 😅
-
-
 <hr />
 
 <br>
@@ -8,11 +6,22 @@
 <br />
 🏫 - Estudante de Análise e Desenvolvimento de Sistemas na UNIP && Engenharia de Software na AMPLI - Pitágoras
 <br />
+
+- 🔭 Atualmente trabalho como Desenvolvedor Full Stack construindo API's e as consumindo no Front-end com React TS <br />
+- 🌱 Estou estudando princípios de UI/UX em busca de melhoria da interface que os usuários interagem  <br />
 <br />
 
-<a href="https://www.linkedin.com/in/gustavo-a-goncalves/">
+
+<div>
+
+  <a href="https://www.instagram.com/gustavo.gonca/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+  <a href="https://www.linkedin.com/in/gustavo-a-goncalves/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</div>
+
 
 <br />
 <hr />
