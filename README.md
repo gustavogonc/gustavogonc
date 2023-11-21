@@ -15,7 +15,6 @@
 
 <a href="https://www.instagram.com/gustavo.gonca/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
   <a href="https://www.linkedin.com/in/gustavo-a-goncalves/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -26,8 +25,8 @@
 
 <div dir="auto">
   <a href="https://github.com/gustavogonc"> 
-    <img height="220em" width="auto" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> 
-    <img height="220em" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages"/>
+    <img height="200em" width="auto" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> 
+    <img height="200em" width="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages"/>
   <a/>
 </div>
 
