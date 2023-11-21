@@ -22,11 +22,7 @@
 </div>
 
 <br />
-<br />
-
-<h3>Stacks</h3>
-
-<div dir="auto">
+<div dir="auto" style="text-decoration: none;">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" />
   </a>
