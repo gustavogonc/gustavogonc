@@ -18,8 +18,8 @@
 <hr />
 
 <div dir="auto">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> 
-  <img height="180em" width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages"/>
+  <img height="180em" width="200px" src="https://github-readme-stats.vercel.app/api?username=gustavogonc&show_icons=true&theme=radical" alt="Status for GitHub" /> 
+  <img height="180em" width="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonc&theme=radical" alt="Most used languages"/>
 </div>
 
 <br />
