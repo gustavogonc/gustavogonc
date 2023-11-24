@@ -9,7 +9,7 @@
 
 
 <br />🔭 Atualmente trabalho como Desenvolvedor Full Stack construindo API's e as consumindo no Front-end com React TS 
-<br />🌱 Estou estudando princípios de UI/UX em busca de melhoria da interface que os usuários interagem  <br />
+<br />🌱 Estou estudando princípios de UI/UX em busca de melhoria da interface que os usuários interagem <br />
 <br />
 
 
