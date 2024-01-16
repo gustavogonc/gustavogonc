@@ -4,7 +4,9 @@
 <br>
 💻 - Software Developer
 <br />
-🏫 - Estudante de Análise e Desenvolvimento de Sistemas na UNIP && Engenharia de Software na AMPLI - Pitágoras
+👨‍🎓 - Formado em Análise e Desenvolvimento de Sistemas UNIP/2023
+<br />
+🏫 - Estudante de Engenharia de Software na AMPLI - Pitágoras
 <br />
 
 
